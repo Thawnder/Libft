@@ -1,4 +1,4 @@
-# Libft
+# Libft (125/100)
 
 **Libft** is a project at 42 School that requires students to implement their own library of standard C functions. This library serves as a foundation for future projects throughout the curriculum.
 
